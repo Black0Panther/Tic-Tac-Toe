@@ -69,4 +69,4 @@ const winnerCheck=()=>{
 };
 
 //Reset button
-reset.addEventListener("hover",reset1);
+reset.addEventListener("click",reset1);
